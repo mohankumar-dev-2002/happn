@@ -137,6 +137,8 @@ h2 {
   }
 
   #iphone {
+    width: 90%;
+    padding: 0;
     position: static;
     transform: rotate(0);
   }
